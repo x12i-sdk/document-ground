@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/document-ground",
+  "packageVersion": "3.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/document-ground",
+  "usageRepository": "https://github.com/x12i-sdk/document-ground",
+  "sourceRepository": "https://github.com/x12i/document-normalizer",
+  "sourceCommit": "552646eaa6b1f61f9e8755f89923bbcc94b4fe95",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Normalize acquired text while retaining its provenance",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:39:41.427655+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "7a41dc0875a303ce1cc259647aa60c6e8494c6478179df486d52903aa0bdc63a",
+    "manifestSha256": "79784ee596f193f37cb1bf6dafdf0a732092549732b5f0a8d1b81c909dcc35ba"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "document-ground-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/document-ground: normalize acquired text while retaining its provenance.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/document-ground": "3.0.0",
+    "@x12i/document-acquisition": "2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/document-ground.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/document-ground"
+}
